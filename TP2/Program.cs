@@ -7,7 +7,7 @@ namespace TP2
         // Largeur de la console
         const int CONSOLE_WIDTH = 5 * Display.CARD_WIDTH;
         // Nombre d'itérations où le joueur peut changer ses cartes (max 10 ici)
-        const int NUM_DRAWS = 10;
+        const int NUM_DRAWS = 1000;
 
         static void Main(string[] args)
         {
